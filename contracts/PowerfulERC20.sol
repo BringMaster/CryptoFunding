@@ -197,7 +197,7 @@ contract Cfm {
     uint8 public constant decimals = 18;
 
     /// @notice Total number of tokens in circulation
-    uint public totalSupply = 1_000_000_000e18; // 1 billion Cfm
+    uint public totalSupply = 300_000_000e18; // 300 million Cfm
 
     /// @notice Address which may mint new tokens
     address public minter;
